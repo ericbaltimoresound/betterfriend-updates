@@ -3,6 +3,37 @@
     <channel>
         <title>BetterFriend</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Thu, 13 Aug 2026 16:48:35 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# BetterFriend 0.7.0
+
+- Adds **My people**, an optional shortcut list for up to ten important people.
+- Makes My people easy to reach from the menu-bar window and offers it once
+  after the first successful manual scan. It requires no Track or cadence setup.
+- Lets you choose from ten editable draft styles before opening Messages.
+- Keeps My people separate from Today recommendations, cadence, and reminders.
+- Improves first-run guidance for Messages sync, Full Disk Access, standard
+  macOS accounts, relaunching, and scan failures.
+- Carries My people between Macs only when you explicitly include the people
+  category in an encrypted profile. Matching uses anonymous tokens; names,
+  phone numbers, and email addresses are not exported.
+- Strengthens import previews, recovery copies, accessibility, narrow-screen
+  layouts, and dark-mode contrast.
+
+BetterFriend still never sends messages for you. Message content remains on
+your Mac and is never attached to update checks or feedback.
+]]></description>
+            <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend-0.7.0.dmg" length="45464568" type="application/octet-stream" sparkle:edSignature="+Sr6jY785D0B7dg3SumkSupkgGyyjXkgEmzsUfcOANtBbN7Vj2SCYBjLEGultQxAIznttS72rRlgASyzH+kKBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend11-10.delta" sparkle:deltaFrom="10" length="113170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JOzHXIm+pQt9kkFZcfLdqyl0kwx1og4bXalrmkoJR4e4id5THUum14Btpwa/lgQ49bxiWub/34XSwdr33yVyAg=="/>
+                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend11-8.delta" sparkle:deltaFrom="8" length="143022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oOou52OLWVs7iVX20Q++p2PbtF1s0caWlv0GBtAnXI/mwuZs1IlfSkOiLc4HS0HmeGtNpqcVjYGC9b9frroUDg=="/>
+                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend11-7.delta" sparkle:deltaFrom="7" length="159874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P+R7YIqJx5PSSbG0NqIjaoyPWPilt5TEig0IgkTsewJxF0+obvMDxh2k1nyV/V3COXfrlVNx8L46Re+VCEYSBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6.3</title>
             <pubDate>Thu, 13 Aug 2026 15:40:07 -0400</pubDate>
             <sparkle:version>10</sparkle:version>
