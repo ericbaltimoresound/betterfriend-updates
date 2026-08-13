@@ -3,6 +3,34 @@
     <channel>
         <title>BetterFriend</title>
         <item>
+            <title>0.7.1</title>
+            <pubDate>Thu, 13 Aug 2026 17:30:26 -0400</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# BetterFriend 0.7.1
+
+- Replaces the formal feedback chooser with one simple **Tell Eric** path.
+- Lets testers describe something weird, confusing, useful, or annoying in
+  their own words; one sentence is enough.
+- Keeps the privacy reminder short and keeps optional technical details tucked
+  behind a disclosure.
+- Renames the menu-bar feedback action and local dashboard tab to **Tell Eric**.
+- Keeps **My people** as the optional shortcut list for up to ten people. It
+  remains separate from Today recommendations, cadence, and reminders.
+
+BetterFriend still never submits feedback itself. It opens a private GitHub
+form only when you ask, and nothing is sent until you press Submit there.
+]]></description>
+            <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend-0.7.1.dmg" length="45535375" type="application/octet-stream" sparkle:edSignature="wCmyLmAgWYPFVHDUNqwmr4ze1Ic0IYhN+RsHm82F9+G+dfSU7syyM9b3S/H9euYdDNu4Tf+IB4T4UoEX0W1nAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend12-11.delta" sparkle:deltaFrom="11" length="43066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rWxSVZibDzoRPjYFWMsd9ikgkiVkZeT2yGdlwpUqL7yP4co8j9n+qu0jUtmYTdhwwStWbCYhtP7taSC/zK4aBw=="/>
+                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend12-10.delta" sparkle:deltaFrom="10" length="114350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VKW6fjfKyxM1ArAxMjk06xFfvnt2XCmrW3kafS6iaggEaWJugFVoZ56vtp7NfrBx0GP6oqad6cY4eXTjJjTyDQ=="/>
+                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend12-8.delta" sparkle:deltaFrom="8" length="143254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KJfW6fBii5G9cmZXvmMR8QQwYtj9T3r9UEo/qvHEoQ7iwj4RVa55E+U6tFy2yBeJuNwXR8JjdCsoaWqxYzILBQ=="/>
+                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend12-7.delta" sparkle:deltaFrom="7" length="161154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oF7VMm6HLSB3rT3r7u3NBf6zJBj2QTnjR9ZgPBfBYiAfKvLPdKDeJBOLQzoXQCfb7T8Wusau0y2NWKPjrwq8Cw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Thu, 13 Aug 2026 16:48:35 -0400</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -56,28 +84,6 @@ BetterFriend still never sends messages for you. Relationship data and message
 content are never attached to update checks.
 ]]></description>
             <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend-0.6.3.dmg" length="45273323" type="application/octet-stream" sparkle:edSignature="hItGQU6sEupR2ISNf6ED5sQgciTtLGyvDnJmdR59iKqR8MsKY0lhNTnxR0ElShLI/miGddF10s9iFIquy2ztBg=="/>
-        </item>
-        <item>
-            <title>0.6.2</title>
-            <pubDate>Thu, 13 Aug 2026 13:54:00 -0400</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# BetterFriend 0.6.2
-
-- Makes encrypted preference imports apply exactly what the preview showed.
-- Prevents scans and preference transfers from overwriting each other's changes.
-- Keeps automatic relationship suggestions from becoming manual choices on another Mac.
-- Improves import previews, Undo, recovery, and encrypted export reliability.
-- Strengthens privacy checks, release checks, and fictional-data testing.
-
-BetterFriend still never sends messages for you. Relationship data and message
-content are never attached to update checks.
-]]></description>
-            <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend-0.6.2.dmg" length="45754902" type="application/octet-stream" sparkle:edSignature="aHozrL+wUm240vTHHc+RCcgrZOykuBhuegNv8CKRjXwShkp0oadjWUIzfTLlvRCWSjKI2Ad4i5vJqkXsBzDSAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend8-7.delta" sparkle:deltaFrom="7" length="77898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ifbCvhRi5r1veXoKV4U4I3QB6sB3TP+Hnkqr5ckjtoSlo6ZjehZG9H6pqFl0UNrRQVd+hfH/4BtMZkwl3U2aBg=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
