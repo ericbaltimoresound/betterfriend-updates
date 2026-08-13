@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BetterFriend</title>
+        <item>
+            <title>0.6.1</title>
+            <pubDate>Thu, 13 Aug 2026 12:58:06 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# BetterFriend 0.6.1
+
+- Adds the signed in-app update path and private feedback workflow.
+- Reworks first-run setup, Privacy & Data, Start at Login, and full local reset.
+- Replaces automatic plaintext profile sync with manual encrypted preference transfer.
+- Improves first-day recommendations, automatic Tracks, and draft choices.
+- Simplifies the dashboard toolbar and strengthens privacy and recovery checks.
+
+BetterFriend still never sends messages for you. Relationship data and message
+content are never attached to update checks.
+]]></description>
+            <enclosure url="https://ericbaltimoresound.github.io/betterfriend-updates/BetterFriend-0.6.1.dmg" length="45517242" type="application/octet-stream" sparkle:edSignature="xTCsZgdH2Nt+S6h1tEPpZHSu5vQQaIfaibeh6mjN1o9C+4j+IFlNzEsmfMhkl/ddR4d/3cfZrj2Hr/ri5kRQBQ=="/>
+        </item>
+    </channel>
+</rss>
